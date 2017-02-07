@@ -14,7 +14,7 @@ Stack: Javascript, A-Frame, Firebase API, Speech Pattern Recognition API, LIVEH2
 ![LIVE|VR](/livevr.png?raw=true "LIVE|VR")
 -----------------------------
 
-[VIEW DEMOS](http://kelvin-lightner.com/LIVEH2H-VR/)
+[VIEW DEMOS](http://laurareynolds.me/liveh2h/)
 
 -----------------------------
 Team:
